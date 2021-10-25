@@ -1,0 +1,11 @@
+
+Section 1 
+
+1 We use interface in OOP coding methodology, when we only need to design the methods that class need to use. 
+This interface methods function only have the function signature but not have the definition.  
+The method definition will be handled by the class that implemented the interface.
+
+2 We use abstract classes when we need to inforce subclass to follow the method definition of 
+base class or to override it by local methods. abstract class do not instniated, we only inherite
+them to be use by our subclass.
+
